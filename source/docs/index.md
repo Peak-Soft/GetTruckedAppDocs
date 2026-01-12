@@ -1,4 +1,4 @@
-# SmartCargo Documentation
+# GetTruckedApp Documentation
 
 Welcome to the developer documentation for the SmartCargo Android application.
 
