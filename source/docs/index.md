@@ -2,6 +2,8 @@
 
 Welcome to the developer documentation for the SmartCargo Android application.
 
+**Project Repository:** [MergedSmartCargo](https://github.com/izy296/MergedSmartCargo)
+
 ## Overview
 
 SmartCargo is a comprehensive logistics application designed to connect Movers (Users) with Lorries (Companies). The application is built with a dual-module architecture sharing a common codebase but separating logic for the two distinct user roles.
