@@ -1,0 +1,14 @@
+site_name: GetTrucked Documentation
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - Architecture:
+    - Dynamic Intent: architecture/dynamic_intent.md
+  - Packages:
+    - Mover (User): packages/mover.md
+    - Lorry (Company): packages/lorry.md
+  - API:
+    - API Routes: api/routes.md
+  - Activities: activities.md
